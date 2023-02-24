@@ -1,2 +1,1 @@
-# c-hata-bakar-m-s-n-z
-c++ hata yardım yeni başladım
+C++ kod devC++ da yazılmıştır bilginize.
